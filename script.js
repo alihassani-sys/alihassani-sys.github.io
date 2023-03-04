@@ -10,17 +10,9 @@ let diff = date2 - date1;
 
 
 
-
-
-
-
-
  function hello(){
     document.getElementById("here").innerHTML =  ~~(diff/1000) + " Seconds!";
     }
-
-
-
 
 
 const aliHassani = document.getElementById("header1");
